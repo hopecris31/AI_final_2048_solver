@@ -1,0 +1,269 @@
+Goal: 64
+Total moves: 37
+Time to solve: 3.76 seconds
+Number of boards made: 14191
+
+Goal: 64
+Total moves: 49
+Time to solve: 4.96 seconds
+Number of boards made: 18840
+
+Goal: 64
+Total moves: 35
+Time to solve: 3.23 seconds
+Number of boards made: 13237
+
+Goal: 64
+Total moves: 56
+Time to solve: 5.17 seconds
+Number of boards made: 16080
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.02 seconds
+Number of boards made: 172
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.02 seconds
+Number of boards made: 158
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.02 seconds
+Number of boards made: 171
+
+Goal: 8
+Total moves: 3
+Time to solve: 0.01 seconds
+Number of boards made: 127
+
+Goal: 8
+Total moves: 3
+Time to solve: 0.01 seconds
+Number of boards made: 99
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 176
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 180
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 197
+
+Goal: 8
+Total moves: 6
+Time to solve: 0.03 seconds
+Number of boards made: 212
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 211
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 195
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.01 seconds
+Number of boards made: 115
+
+Goal: 8
+Total moves: 7
+Time to solve: 0.03 seconds
+Number of boards made: 249
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.03 seconds
+Number of boards made: 189
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.02 seconds
+Number of boards made: 134
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 156
+
+Goal: 8
+Total moves: 4
+Time to solve: 0.02 seconds
+Number of boards made: 157
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 207
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 176
+
+Goal: 8
+Total moves: 5
+Time to solve: 0.02 seconds
+Number of boards made: 173
+
+Goal: 128
+Total moves: 78
+Time to solve: 22.69 seconds
+Number of boards made: 50612
+
+Goal: 128
+No solution found.
+
+Goal: 128
+No solution found.
+
+Goal: 128
+Total moves: 71
+Time to solve: 21.78 seconds
+Number of boards made: 48116
+
+Goal: 128
+Total moves: 72
+Time to solve: 24.06 seconds
+Number of boards made: 53600
+
+Goal: 128
+Total moves: 71
+Time to solve: 20.59 seconds
+Number of boards made: 51061
+
+Goal: 128
+Total moves: 73
+Time to solve: 24.62 seconds
+Number of boards made: 54187
+
+Goal: 128
+Total moves: 76
+Time to solve: 20.87 seconds
+Number of boards made: 47700
+
+Goal: 128
+Total moves: 131
+Time to solve: 31.44 seconds
+Number of boards made: 70912
+
+Goal: 128
+Total moves: 77
+Time to solve: 23.60 seconds
+Number of boards made: 53299
+
+Goal: 32
+Total moves: 21
+Time to solve: 1.49 seconds
+Number of boards made: 3640
+
+Goal: 32
+Total moves: 22
+Time to solve: 1.43 seconds
+Number of boards made: 3456
+
+Goal: 32
+Total moves: 19
+Time to solve: 1.41 seconds
+Number of boards made: 3595
+
+Goal: 32
+Total moves: 19
+Time to solve: 1.62 seconds
+Number of boards made: 3915
+
+Goal: 32
+Total moves: 23
+Time to solve: 1.50 seconds
+Number of boards made: 3757
+
+Goal: 32
+Total moves: 25
+Time to solve: 1.75 seconds
+Number of boards made: 4186
+
+Goal: 32
+Total moves: 20
+Time to solve: 1.40 seconds
+Number of boards made: 3458
+
+Goal: 32
+Total moves: 20
+Time to solve: 1.41 seconds
+Number of boards made: 3782
+
+Goal: 32
+Total moves: 24
+Time to solve: 1.72 seconds
+Number of boards made: 4068
+
+Goal: 32
+Total moves: 25
+Time to solve: 1.84 seconds
+Number of boards made: 4231
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 1
+No solution found.
+
+Goal: 32
+Total moves: 22
+Time to solve: 0.30 seconds
+Number of boards made: 2896
+

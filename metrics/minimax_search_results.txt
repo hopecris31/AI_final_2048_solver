@@ -1,0 +1,18 @@
+Goal: 16
+Best move: left
+Goal: 16
+Best move: left
+Goal: 16
+Best move: right
+Goal: 16
+Best move: up
+Goal: 16
+Total moves: 10
+Time to solve: 8.69 seconds
+Number of boards made: 0
+
+Goal: 16
+Total moves: 10
+Time to solve: 9.59 seconds
+Number of boards made: 0
+

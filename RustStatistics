@@ -1,0 +1,42 @@
+Over 100 iterations, rust statistics
+All 100% solution rate
+
+---16---
+Average boards made: 42.24
+Average time taken (milliseconds): 0.2222270
+Average moves to solution: 11.06
+
+---32---
+Average boards made: 114.96
+Average time taken (milliseconds): 0.535110
+Average moves to solution: 28.15
+
+---64---
+Average boards made: 439.84
+Average time taken (milliseconds): 1.709030
+Average moves to solution: 84.35
+
+---128---
+Average boards made: 1469.63
+Average time taken (milliseconds): 3.637110
+Average moves to solution: 143.49
+
+---256---
+Average boards made: 5967.51
+Average time taken (milliseconds): 9.715780
+Average moves to solution: 246.56
+
+---512---
+Average boards made: 103,224.17
+Average time taken (milliseconds): 110.197180
+Average moves to solution: 460.53
+
+---1024---
+Average boards made: 2,240,283.02
+Average time taken (milliseconds): 2150.288950
+Average moves to solution: 947.05
+
+---2048---
+Average boards made: 18,782,876.07
+Average time taken (milliseconds): 45949.012820
+Average moves to solution: 1888.33

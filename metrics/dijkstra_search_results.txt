@@ -1,0 +1,20 @@
+Goal: 16
+Total moves: 6
+Time to solve: 0.12 seconds
+Number of boards made: 0
+
+Goal: 16
+Total moves: 5
+Time to solve: 0.06 seconds
+Number of boards made: 0
+
+Goal: 32
+Total moves: 11
+Time to solve: 25.33 seconds
+Number of boards made: 0
+
+Goal: 32
+Total moves: 11
+Time to solve: 24.28 seconds
+Number of boards made: 0
+

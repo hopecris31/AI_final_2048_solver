@@ -1,0 +1,35 @@
+Goal: 16
+Total moves: 8
+Time to solve: 0.00 seconds
+Number of boards made: 58
+
+Goal: 16
+Total moves: 9
+Time to solve: 0.01 seconds
+Number of boards made: 70
+
+Goal: 64
+Total moves: 31
+Time to solve: 5.96 seconds
+Number of boards made: 82992
+
+Goal: 64
+Total moves: 27
+Time to solve: 10.13 seconds
+Number of boards made: 141089
+
+Goal: 64
+Total moves: 34
+Time to solve: 7.79 seconds
+Number of boards made: 108511
+
+Goal: 64
+Total moves: 30
+Time to solve: 6.42 seconds
+Number of boards made: 88613
+
+Goal: 256
+Total moves: 107
+Time to solve: 924.99 seconds
+Number of boards made: 12453653
+
